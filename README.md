@@ -2,7 +2,7 @@
 
 AuraFolio is a visually stunning, minimalist single-page web application designed for creatives to showcase their work. It functions as a digital portfolio or exhibition space, prioritizing clean aesthetics, generous white space, and elegant typography to ensure the focus remains on the content. The application features a captivating hero section with a subtle gradient background, a responsive grid-based gallery for projects, a concise 'About' section, and a minimalist contact footer. Every element is crafted with meticulous attention to detail, featuring smooth animations, subtle micro-interactions, and a sophisticated color palette, creating a professional and immersive user experience.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/asiakay/aurafolio-a-minimalist-digital-portfolio)
 
 ## Key Features
 
@@ -75,7 +75,7 @@ This project is configured for easy deployment to Cloudflare Pages.
 
 You can deploy your own version of this project to Cloudflare with the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/asiakay/aurafolio-a-minimalist-digital-portfolio)
 
 ### Manual Deployment with Wrangler
 
